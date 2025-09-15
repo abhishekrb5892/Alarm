@@ -8,13 +8,13 @@ import "./index.css";
 
 // choose one YouTube embed per weekday (Sunday=0 .. Saturday=6)
 const weeklyVideos = {
-  0: "https://www.youtube.com/embed/ZXsQAXx_ao0", // Sunday
-  1: "https://www.youtube.com/embed/2Lz0VOltZKA", // Monday
-  2: "https://www.youtube.com/embed/fLeJJPxua3E", // Tuesday
-  3: "https://www.youtube.com/embed/wnHW6o8WMas", // Wednesday
-  4: "https://www.youtube.com/embed/hbkZrOU1Zag", // Thursday
-  5: "https://www.youtube.com/embed/IdTMDpizis8", // Friday
-  6: "https://www.youtube.com/embed/MYtjpIwamos"  // Saturday
+  0: "https://www.youtube.com/embed/wnHW6o8WMas", // Sunday
+  1: "https://www.youtube.com/embed/0cwtNOq_k4w", // Monday
+  2: "https://www.youtube.com/embed/zzfREEPbUsA", // Tuesday
+  3: "https://www.youtube.com/embed/AjZ0KbJcav0", // Wednesday
+  4: "https://www.youtube.com/embed/UrfpkvvRTns", // Thursday
+  5: "https://www.youtube.com/embed/ERClHCOF14c", // Friday
+  6: "https://www.youtube.com/embed/5aPntFAyRts"  // Saturday
 };
 
 export default function App() {
